@@ -12,4 +12,5 @@ Or run with parameters in IDE.
 It will print the word in the target language and also one sentence with it.
 
 Allowed languages are: arabic, german, english, spanish, french, hebrew, japanese, dutch, polish, portuguese, romanian, russian, turkish
+
 'all' is also allowed as for target_language parameter.
